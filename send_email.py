@@ -8,15 +8,18 @@ SMTP_PORT = 465
 username = "aashritha1407@gmail.com"
 password = "scpy qexg gaev ntjf"
 
+receiver = "aashritha1407@gmail.com"
 
-def send_email(username, subject, message):
+
+def send_email(message, user_email):
     context = ssl.create_default_context()
     with smtplib.SMTP_SSL(SMTP_HOST, SMTP_PORT, context=context) as server:
         server.login(username, password)
 
         # Construct email
+        subject = f"message from {user_email}"
         msg = EmailMessage()
-        msg['From'] = username
+        msg['From'] = user_email
         msg['To'] = receiver
         msg['Subject'] = subject
         msg.set_content(message)
@@ -25,13 +28,10 @@ def send_email(username, subject, message):
         server.quit()
 
 
-subject = "Test Mail"
 
-receiver = "aashritha1407@gmail.com"
-
-message = """
-Hello!
-Test email
-Bye!
-"""
-send_email(username, subject, message)
+# message = """
+# Hello!
+# Test email
+# Bye!
+# """
+#send_email(message)
