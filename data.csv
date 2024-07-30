@@ -1,21 +1,21 @@
 title;description;url;image
-Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;1.png
-Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;2.png
-PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;3.png
-PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;4.png
-Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;5.png
-Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;6.png
-Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;7.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;8.png
-Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;9.png
-Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;10.png
-Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;11.png
-Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;12.png
-Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;13.png
-Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;14.png
-Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;15.png
-Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;16.png
-Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;17.png
-School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;18.png
-Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;19.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://pythonhow.com;https://lottie.host/5e80af02-7b32-477a-95e6-5dd77b81242f/91tKoMnUJ4.json
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://pythonhow.com;https://lottie.host/25822c86-6901-48da-b1a0-81f8a9dbdba9/t2wd0B6r84.json
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://pythonhow.com;https://lottie.host/57237586-3942-4441-8f94-dd7446dc1401/fA8460yH0K.json
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://pythonhow.com;https://lottie.host/6224d153-7141-4338-8adf-03dd35e858de/zFfGZ9RZDW.json
+Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://pythonhow.com;https://lottie.host/f3a8406c-22f7-4166-a556-139d30fa0d48/8Oweqo9uxL.json
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://pythonhow.com;https://lottie.host/d3c56f39-a2ab-47d1-8c41-8f65e15bbd0e/Ho19le65cy.json
+Download Cleaner;A script that monitors the Downloads folder and deletes old files keeping the folder clean.;https://pythonhow.com;https://lottie.host/693d5f10-6cd9-40f8-9b4d-c69c904c9eb9/TnAl1H9vri.json
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://pythonhow.com;https://lottie.host/a8667f87-42d3-4df0-b2cb-240efa6f5a23/uG16VvWgs3.json
+Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://pythonhow.com;https://lottie.host/665c7b91-16fb-48b6-898c-d4b0f3c6bd26/EpmsD0QDbG.json
+Open Domain Chatbot;A chatbot built that can discuss anything with a human and is built using the Facebook API.;https://pythonhow.com;https://lottie.host/2bb630a8-65bd-413f-97e2-53f5cf0448b8/yuQEaZkgi9.json
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://pythonhow.com;https://lottie.host/de884833-d266-4d0e-9f8d-70b1964654c2/Ofi5OU4PQ4.json
+Typing Analyzer;A program that monitors the computer keyboard and returns the most typed words of the session.;https://pythonhow.com;https://lottie.host/03a66bcd-3efd-486c-b1a2-398e72671f57/ckPy67gNbQ.json
+Internet Speed Analysis;A program that records the internet speed every few seconds and plots the values on the browser.;https://pythonhow.com;https://lottie.host/4aabb93c-f8ab-4469-8ed1-e1147e80aab7/l3b3EG2av5.json
+Monitoring Data;A program that monitors a particular website and periodically records the data to a remote server.;https://pythonhow.com;https://lottie.host/fb0a8109-d66a-4eba-aff1-387485e86ba5/GrDOhOVkQT.json
+Visualizing Data;A program that visualizes the data collected in the previous monitoring program. ;https://pythonhow.com;https://lottie.host/1c3ec1a9-1ab3-4f3d-82fb-12af12e9fb0b/7gi1uks1yu.json
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://pythonhow.com;https://lottie.host/3570f1e5-c3c2-471c-aac3-7487c182a9ed/nobWmQBYAk.json
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://pythonhow.com;https://lottie.host/74991554-9c4b-4419-942b-4f1546ea366d/MqSnmhoC8f.json
+School Management System;A desktop PyQt6 GUI app for managing complex university data with an SQL database backend.;https://pythonhow.com;https://lottie.host/dee07aaf-804e-4d1d-919d-221cd8963529/Atrd0MPYaz.json
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://pythonhow.com;https://lottie.host/ef3b8d6c-35c2-49d3-9185-2d0e1bfabd61/I5EN7XH3If.json
+Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;https://lottie.host/c71d3474-6506-49ef-8c3a-55f2419b3dd7/sWlSA8Aeuv.json
